@@ -12,14 +12,16 @@ LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
 References
 =============
 
-- gamma_encoding:
+- gamma_encoding
 
 https://docs.opencv.org/3.4/d3/dc1/tutorial_basic_linear_transform.html
+
 https://en.wikipedia.org/wiki/Gamma_correction
 
 
 Datasets
 =============
 
-- UCSD anomaly detection dataset:
+- UCSD anomaly detection dataset
+
 http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm
