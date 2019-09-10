@@ -13,6 +13,7 @@ References
 =============
 
 - gamma_encoding:
+
 https://docs.opencv.org/3.4/d3/dc1/tutorial_basic_linear_transform.html
 https://en.wikipedia.org/wiki/Gamma_correction
 
