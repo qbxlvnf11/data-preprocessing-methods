@@ -6,7 +6,7 @@ Blog URL: https://blog.naver.com/qbxlvnf11
 LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
 
 
-- Upload data processing methods code
+- Upload data processing methods
 - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
 
