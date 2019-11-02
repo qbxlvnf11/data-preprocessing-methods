@@ -16,7 +16,9 @@ Contents
 - Image Processing
   - Gamma Encoding
   - TORCHVISION.TRANSFORMS (Resize, Center Crop, Normalize)
-
+- NLP
+  - Preprocessing (Lemmatization, Stemming, POS Tagging ...), TF-IDF, Graphization etc.
+  
 Datasets
 =============
 
@@ -24,6 +26,9 @@ Datasets
 
 http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm
 
+- MetaLWOz (Multi-Domain Dialogs for the Fast Adaptation of Conversation Models)
+
+https://www.microsoft.com/en-us/research/project/metalwoz/
 
 References
 =============
