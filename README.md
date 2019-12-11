@@ -18,6 +18,7 @@ Contents
   - TORCHVISION.TRANSFORMS (Resize, Center Crop, Normalize)
 - NLP
   - Preprocessing (Lemmatization, Stemming, POS Tagging ...), TF-IDF, Graphization etc.
+  - Usage of TorchText in Pytorch
   
 Datasets
 =============
@@ -29,6 +30,10 @@ http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm
 - MetaLWOz (Multi-Domain Dialogs for the Fast Adaptation of Conversation Models)
 
 https://www.microsoft.com/en-us/research/project/metalwoz/
+
+- Sentiment-Analysis-Dataset
+
+http://thinknook.com/wp-content/uploads/2012/09/Sentiment-Analysis-Dataset.zip
 
 References
 =============
