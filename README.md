@@ -45,3 +45,9 @@ https://docs.opencv.org/3.4/d3/dc1/tutorial_basic_linear_transform.html
 - NLTK
 
 https://www.nltk.org/
+
+- TorchText
+
+https://medium.com/@sonicboom8/sentiment-analysis-torchtext-55fb57b1fab8
+
+https://simonjisu.github.io/nlp/2018/07/18/torchtext.html
