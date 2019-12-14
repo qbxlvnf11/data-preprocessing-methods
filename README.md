@@ -18,6 +18,9 @@ Contents
   - TORCHVISION.TRANSFORMS (Resize, Center Crop, Normalize)
 - NLP
   - Preprocessing (Lemmatization, Stemming, POS Tagging ...), TF-IDF, Graphization etc.
+    - Graphization: representing language as graph structure
+      - Node: 1-gram TF-IDF
+      - Edge: 2-gram counting
   - Usage of TorchText in Pytorch
   
 Datasets
