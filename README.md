@@ -54,22 +54,3 @@ https://www.nltk.org/
 https://medium.com/@sonicboom8/sentiment-analysis-torchtext-55fb57b1fab8
 
 https://simonjisu.github.io/nlp/2018/07/18/torchtext.html
-
-Code correction
-=============
-
-- News_classifier_recurrent_convolution.ipynb
-
-[29] block: 
-
-y_train = np.expand_dims(X_train, -1) -> y_train = np.expand_dims(y_train, -1)
-
-y_test = np.expand_dims(X_test, -1) -> y_test = np.expand_dims(y_test, -1)
-
-- News_classifier_bidirectional_LSTM.ipynb
-
-[29] block: 
-
-y_train = np.expand_dims(X_train, -1) -> y_train = np.expand_dims(y_train, -1)
-
-y_test = np.expand_dims(X_test, -1) -> y_test = np.expand_dims(y_test, -1)
