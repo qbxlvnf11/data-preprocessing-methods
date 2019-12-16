@@ -66,8 +66,6 @@ y_train = np.expand_dims(X_train, -1) -> y_train = np.expand_dims(y_train, -1)
 
 y_test = np.expand_dims(X_test, -1) -> y_test = np.expand_dims(y_test, -1)
 
-
-
 - News_classifier_bidirectional_LSTM.ipynb
 
 [29] block: 
