@@ -56,3 +56,7 @@ https://www.nltk.org/
 https://medium.com/@sonicboom8/sentiment-analysis-torchtext-55fb57b1fab8
 
 https://simonjisu.github.io/nlp/2018/07/18/torchtext.html
+
+- Speech Processing
+
+https://datascienceschool.net/view-notebook/691326b7f88644f79ec7ddc9f27f84ec/
