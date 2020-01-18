@@ -22,6 +22,8 @@ Contents
       - Node: 1-gram TF-IDF
       - Edge: 2-gram counting
   - Usage of TorchText in Pytorch
+- Speech Processing
+  - STFT
   
 Datasets
 =============
