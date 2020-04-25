@@ -12,7 +12,8 @@ LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
 
 Contents
 =============
-
+- Common
+  - Usage of tf.data.Dataset, tensorflow_datasets in Tensorflow
 - Image Processing
   - Gamma Encoding
   - TORCHVISION.TRANSFORMS (Resize, Center Crop, Normalize)
