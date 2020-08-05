@@ -1,5 +1,15 @@
-- Data processing methods for machine learning
-- Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
+
+
+Description
+=============
+
+#### - Data processing or management methods for machine learning
+  - tf.data.Dataset: how to process data by using tf.data.Dataset in Tensorflow
+  - Gamma Encoding: in graph classification problem, what kind of node features use is influential for classification performance
+  - Graph subsampling: removing node or edge randomly to subsampling and augmentation of graph dataset
+  - Random walks of grpah nodes: method of generating random walks of graph nodes using in Node2Vec
+  
+#### - Upload code as the Jupiter Notebook file (.ipynb) for intuitive understanding
 
 
 Contents
