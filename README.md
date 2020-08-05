@@ -4,10 +4,13 @@ Description
 =============
 
 #### - Data processing or management methods for machine learning
-  - tf.data.Dataset: how to process data by using tf.data.Dataset in Tensorflow
-  - Gamma Encoding: in graph classification problem, what kind of node features use is influential for classification performance
-  - Graph subsampling: removing node or edge randomly to subsampling and augmentation of graph dataset
-  - Random walks of grpah nodes: method of generating random walks of graph nodes using in Node2Vec
+  - tf.data.Dataset: how to process data in Tensorflow
+  - torch.utils.data: building custom dataset for neural model in Pytorch
+  - Gamma Encoding: brightness and contrast adjustments
+  - TORCHVISION.TRANSFORMS: how to process image data in Pytorch
+  - NLP process methods: lemmatization, stemming, POS tagging, TF-IDF, Graphization etc.
+  - TorchText: how to process text data in Pytorch
+  - STFT: determining the sinusoidal frequency and phase content of local sections of a signal as it changes over time
   
 #### - Upload code as the Jupiter Notebook file (.ipynb) for intuitive understanding
 
@@ -16,6 +19,7 @@ Contents
 =============
 - Common
   - Usage of tf.data.Dataset, tensorflow_datasets in Tensorflow
+  - Building custom dataset in Pytorch
 - Image Processing
   - Gamma Encoding
   - TORCHVISION.TRANSFORMS (Resize, Center Crop, Normalize)
