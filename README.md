@@ -1,11 +1,3 @@
-
-It is posted by Yong (예비개발자).
-
-Blog URL: https://blog.naver.com/qbxlvnf11
-
-LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
-
-
 - Data processing methods for machine learning
 - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
@@ -61,3 +53,13 @@ https://simonjisu.github.io/nlp/2018/07/18/torchtext.html
 - Speech Processing
 
 https://datascienceschool.net/view-notebook/691326b7f88644f79ec7ddc9f27f84ec/
+
+Author
+=============
+
+#### - LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
+
+#### - Blog URL: https://blog.naver.com/qbxlvnf11
+
+#### - Email: qbxlvnf11@google.com, qbxlvnf11@naver.com
+
