@@ -3,7 +3,7 @@
 Description
 =============
 
-#### - Data processing or management methods for machine learning
+#### - Data processing or data management methods for machine learning
   - tf.data.Dataset: how to process data in Tensorflow
   - torch.utils.data: building custom dataset for neural model in Pytorch
   - Gamma Encoding: brightness and contrast adjustments
