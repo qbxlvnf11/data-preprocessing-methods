@@ -17,19 +17,19 @@ Description
 
 Contents
 =============
-- Common
+#### - Common
   - Usage of tf.data.Dataset, tensorflow_datasets in Tensorflow
   - Building custom dataset in Pytorch
-- Image Processing
+#### - Image Processing
   - Gamma Encoding
   - TORCHVISION.TRANSFORMS (Resize, Center Crop, Normalize)
-- NLP
+#### - NLP
   - Preprocessing (Lemmatization, Stemming, POS Tagging ...), TF-IDF, Graphization etc.
     - Graphization: representing language as graph structure
       - Node: 1-gram TF-IDF
       - Edge: 2-gram counting
   - Usage of TorchText in Pytorch
-- Speech Processing
+#### - Speech Processing
   - STFT
   
 Datasets
