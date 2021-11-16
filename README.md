@@ -8,7 +8,7 @@ Description
   - torch.utils.data: building custom dataset for neural model in Pytorch
   - Gamma Encoding: brightness and contrast adjustments
   - TORCHVISION.TRANSFORMS: how to process image data in Pytorch
-  - NLP process methods: lemmatization, stemming, POS tagging, TF-IDF, Graphization etc.
+  - Preprocessing methods in NLP: lemmatization, stemming, POS tagging, TF-IDF, Graphization etc.
   - TorchText: how to process text data in Pytorch
   - STFT: determining the sinusoidal frequency and phase content of local sections of a signal as it changes over time
   
@@ -63,10 +63,6 @@ https://www.nltk.org/
 https://medium.com/@sonicboom8/sentiment-analysis-torchtext-55fb57b1fab8
 
 https://simonjisu.github.io/nlp/2018/07/18/torchtext.html
-
-#### - Speech Processing
-
-https://datascienceschool.net/view-notebook/691326b7f88644f79ec7ddc9f27f84ec/
 
 Author
 =============
