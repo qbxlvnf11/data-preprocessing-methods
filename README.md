@@ -6,7 +6,7 @@ Description
 #### - Data processing or data management methods for machine learning
   - tf.data.Dataset: how to process data in Tensorflow
   - torch.utils.data: building custom dataset for neural model in Pytorch
-  - Gamma Encoding: brightness and contrast adjustments
+  - Gamma Encoding: brightness and contrast adjustments of images
   - TORCHVISION.TRANSFORMS: how to process image data in Pytorch
   - Preprocessing methods in NLP: lemmatization, stemming, POS tagging, TF-IDF, Graphization etc.
   - TorchText: how to process text data in Pytorch
@@ -21,6 +21,7 @@ Contents
   - Usage of tf.data.Dataset, tensorflow_datasets in Tensorflow
   - Building custom dataset in Pytorch
 #### - Image Processing
+  - Read image as numpy
   - Gamma Encoding
   - TORCHVISION.TRANSFORMS (Resize, Center Crop, Normalize)
 #### - NLP
