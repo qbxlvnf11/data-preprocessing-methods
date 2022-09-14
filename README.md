@@ -4,13 +4,6 @@ Description
 =============
 
 #### - Data processing or data management methods for machine learning
-  - tf.data.Dataset: how to process data in Tensorflow
-  - torch.utils.data: building custom dataset for neural model in Pytorch
-  - Gamma Encoding: brightness and contrast adjustments of images
-  - TORCHVISION.TRANSFORMS: how to process image data in Pytorch
-  - Preprocessing methods in NLP: lemmatization, stemming, POS tagging, TF-IDF, Graphization etc.
-  - TorchText: how to process text data in Pytorch
-  - STFT: determining the sinusoidal frequency and phase content of local sections of a signal as it changes over time
   
 #### - Upload code as the Jupiter Notebook file (.ipynb) for intuitive understanding
 
@@ -23,15 +16,15 @@ Contents
 #### - Image Processing
   - [Read image as numpy](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/Numpy_image_read.py)
   - [Gamma Encoding (brightness and contrast adjustments of images)](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/Gamma_encoding_UCSD.ipynb)
-  - [TORCHVISION.TRANSFORMS in Pytorch (Resize, Center Crop, Normalize)](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/TORCHVISION.TRANSFORMS_UCSD.ipynb)
+  - [TORCHVISION.TRANSFORMS in Pytorch](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/TORCHVISION.TRANSFORMS_UCSD.ipynb)
 #### - NLP
   - [Text preprocessing (Lemmatization, Stemming, POS Tagging ...), TF-IDF, Graphization etc.](https://github.com/qbxlvnf11/data-processing-basic/blob/master/NLP/NLP_preprocessing_tfidf_graphization.ipynb)
     - Graphization: representing language as graph structure
       - Node: 1-gram TF-IDF
       - Edge: 2-gram counting
-  - Usage of TorchText in Pytorch
+  - [TorchText in Pytorch](https://github.com/qbxlvnf11/data-processing-basic/blob/master/NLP/TorchText.ipynb)
 #### - Speech Processing
-  - [STFT](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Speech%20Processing/STFT.ipynb)
+  - [STFT](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Speech%20Processing/STFT.ipynb): determining the sinusoidal frequency and phase content of local sections of a signal as it changes over time
   
 Datasets
 =============
