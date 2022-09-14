@@ -15,16 +15,19 @@ Contents
   - [Tensorflow data class: tf.data.Dataset, tensorflow_datasets](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Dataset%20Class/tf.data.Dataset%2C%20tensorflow_datasets.ipynb)
 #### - Image Processing
   - [Read image as numpy](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/Numpy_image_read.py)
-  - [Gamma Encoding (brightness and contrast adjustments of images)](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/Gamma_encoding_UCSD.ipynb)
+  - [Gamma Encoding](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/Gamma_encoding_UCSD.ipynb)
+    - Brightness and contrast adjustments of images
   - [TORCHVISION.TRANSFORMS in Pytorch](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/TORCHVISION.TRANSFORMS_UCSD.ipynb)
 #### - NLP
   - [Text preprocessing (Lemmatization, Stemming, POS Tagging ...), TF-IDF, Graphization etc.](https://github.com/qbxlvnf11/data-processing-basic/blob/master/NLP/NLP_preprocessing_tfidf_graphization.ipynb)
+    - TF-IDF: a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus
     - Graphization: representing language as graph structure
       - Node: 1-gram TF-IDF
       - Edge: 2-gram counting
   - [TorchText in Pytorch](https://github.com/qbxlvnf11/data-processing-basic/blob/master/NLP/TorchText.ipynb)
 #### - Speech Processing
-  - [STFT](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Speech%20Processing/STFT.ipynb): determining the sinusoidal frequency and phase content of local sections of a signal as it changes over time
+  - [STFT](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Speech%20Processing/STFT.ipynb)
+    - Determining the sinusoidal frequency and phase content of local sections of a signal as it changes over time
   
 Datasets
 =============
