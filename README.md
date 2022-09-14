@@ -17,21 +17,21 @@ Description
 
 Contents
 =============
-#### - Common
-  - Usage of tf.data.Dataset, tensorflow_datasets in Tensorflow
-  - Building custom dataset in Pytorch
+#### - Dataset Class
+  - [Pytorch data class: torch.utils.data](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Dataset%20Class/custom_dataset_pytorch.ipynb)
+  - [Tensorflow data class: tf.data.Dataset, tensorflow_datasets](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Dataset%20Class/tf.data.Dataset%2C%20tensorflow_datasets.ipynb)
 #### - Image Processing
-  - Read image as numpy
-  - Gamma Encoding
-  - TORCHVISION.TRANSFORMS (Resize, Center Crop, Normalize)
+  - [Read image as numpy](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/Numpy_image_read.py)
+  - [Gamma Encoding (brightness and contrast adjustments of images)](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/Gamma_encoding_UCSD.ipynb)
+  - [TORCHVISION.TRANSFORMS in Pytorch (Resize, Center Crop, Normalize)](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/TORCHVISION.TRANSFORMS_UCSD.ipynb)
 #### - NLP
-  - Preprocessing (Lemmatization, Stemming, POS Tagging ...), TF-IDF, Graphization etc.
+  - [Text preprocessing (Lemmatization, Stemming, POS Tagging ...), TF-IDF, Graphization etc.](https://github.com/qbxlvnf11/data-processing-basic/blob/master/NLP/NLP_preprocessing_tfidf_graphization.ipynb)
     - Graphization: representing language as graph structure
       - Node: 1-gram TF-IDF
       - Edge: 2-gram counting
   - Usage of TorchText in Pytorch
 #### - Speech Processing
-  - STFT
+  - [STFT](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Speech%20Processing/STFT.ipynb)
   
 Datasets
 =============
