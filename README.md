@@ -47,7 +47,7 @@ http://thinknook.com/wp-content/uploads/2012/09/Sentiment-Analysis-Dataset.zip
 
 #### - MPI Sintel dataset
 
-https://simonjisu.github.io/nlp/2018/07/18/torchtext.html
+http://sintel.is.tue.mpg.de/downloads
 
 References
 =============
@@ -63,6 +63,8 @@ https://www.nltk.org/
 #### - TorchText
 
 https://medium.com/@sonicboom8/sentiment-analysis-torchtext-55fb57b1fab8
+
+https://simonjisu.github.io/nlp/2018/07/18/torchtext.html
 
 Author
 =============
