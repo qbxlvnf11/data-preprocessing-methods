@@ -45,9 +45,9 @@ https://www.microsoft.com/en-us/research/project/metalwoz/
 
 http://thinknook.com/wp-content/uploads/2012/09/Sentiment-Analysis-Dataset.zip
 
-#### -
+#### - MPI Sintel dataset
 
-http://sintel.is.tue.mpg.de/downloads
+https://simonjisu.github.io/nlp/2018/07/18/torchtext.html
 
 References
 =============
@@ -63,10 +63,6 @@ https://www.nltk.org/
 #### - TorchText
 
 https://medium.com/@sonicboom8/sentiment-analysis-torchtext-55fb57b1fab8
-
-#### - MPI Sintel dataset
-
-https://simonjisu.github.io/nlp/2018/07/18/torchtext.html
 
 Author
 =============
