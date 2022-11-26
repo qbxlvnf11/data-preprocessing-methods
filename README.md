@@ -29,6 +29,8 @@ Contents
 #### - Speech Processing
   - [STFT](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Speech%20Processing/STFT.ipynb)
     - Determining the sinusoidal frequency and phase content of local sections of a signal as it changes over time
+#### - Basic File Format Parser
+  - [XML parser](https://github.com/qbxlvnf11/data-preprocessing-methods/blob/master/Basic%20File%20Format%20Parser/XML%20Parser.ipynb)
 
 Datasets
 =============
@@ -41,13 +43,17 @@ http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm
 
 https://www.microsoft.com/en-us/research/project/metalwoz/
 
-#### - Sentiment-Analysis-Dataset
+#### - Sentiment Analysis Dataset
 
 http://thinknook.com/wp-content/uploads/2012/09/Sentiment-Analysis-Dataset.zip
 
 #### - MPI Sintel dataset
 
 http://sintel.is.tue.mpg.de/downloads
+
+#### - Hard Hat Detection Dataset
+
+https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection
 
 References
 =============
