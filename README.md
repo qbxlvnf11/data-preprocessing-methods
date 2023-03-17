@@ -3,13 +3,14 @@
 Description
 =============
 
-#### - Data processing or data management methods for machine learning
+#### - Data processing or management methods, data parser for machine learning
   
 #### - Upload code as the Jupiter Notebook file (.ipynb) for intuitive understanding
 
 
 Contents
 =============
+
 #### - Dataset Class
   - [Pytorch data class: torch.utils.data](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Dataset%20Class/custom_dataset_pytorch.ipynb)
   - [Tensorflow data class: tf.data.Dataset, tensorflow_datasets](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Dataset%20Class/tf.data.Dataset%2C%20tensorflow_datasets.ipynb)
@@ -31,7 +32,10 @@ Contents
     - Determining the sinusoidal frequency and phase content of local sections of a signal as it changes over time
 #### - Basic File Format Parser
   - [XML parser](https://github.com/qbxlvnf11/data-preprocessing-methods/blob/master/Basic%20File%20Format%20Parser/XML%20Parser.ipynb)
-
+#### - Utils
+  - [Build dataset path file](https://github.com/qbxlvnf11/data-preprocessing-methods/blob/master/Utils/build_dataset_path_file.ipynb)
+    - Write dataset path extracted from various source dataset folder/text in one txt file
+    
 Datasets
 =============
 
@@ -47,9 +51,13 @@ https://www.microsoft.com/en-us/research/project/metalwoz/
 
 http://thinknook.com/wp-content/uploads/2012/09/Sentiment-Analysis-Dataset.zip
 
-#### - MPI Sintel dataset
+#### - MPI Sintel Dataset
 
 http://sintel.is.tue.mpg.de/downloads
+
+#### - CrowdHuman Dataset
+
+https://www.crowdhuman.org/
 
 #### - Hard Hat Detection Dataset
 
@@ -71,6 +79,10 @@ https://www.nltk.org/
 https://medium.com/@sonicboom8/sentiment-analysis-torchtext-55fb57b1fab8
 
 https://simonjisu.github.io/nlp/2018/07/18/torchtext.html
+
+#### - Extract dataset path from various dataset folder/text
+
+https://github.com/WongKinYiu/yolov7
 
 Author
 =============
