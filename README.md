@@ -19,6 +19,7 @@ Contents
   - [Read video composed with sequence of image files](https://github.com/qbxlvnf11/data-preprocessing-methods/blob/master/Image%20Processing/read_video_composed_with_sequence_of_image_files.ipynb)
   - [Split video to images and save](https://github.com/qbxlvnf11/data-preprocessing-methods/blob/master/Image%20Processing/video_split_image.py)
   - [Cutting video and save](https://github.com/qbxlvnf11/data-preprocessing-methods/blob/master/Image%20Processing/video_cutting_seconds.py)
+  - [Cutting video and save (reading video list text)](https://github.com/qbxlvnf11/data-preprocessing-methods/blob/master/Image%20Processing/video_cutting_seconds_read_video_list.py)
   - [Gamma Encoding](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/Gamma_encoding_UCSD.ipynb)
     - Brightness and contrast adjustments of images
   - [TORCHVISION.TRANSFORMS in Pytorch](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/TORCHVISION.TRANSFORMS_UCSD.ipynb)
