@@ -34,8 +34,9 @@ Contents
 #### - Speech Processing
   - [STFT](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Speech%20Processing/STFT.ipynb)
     - Determining the sinusoidal frequency and phase content of local sections of a signal as it changes over time
-#### - Basic File Format Parser
-  - [XML parser](https://github.com/qbxlvnf11/data-preprocessing-methods/blob/master/Basic%20File%20Format%20Parser/XML%20Parser.ipynb)
+#### - Basic File Format Parser and Builder
+  - [XML parser](https://github.com/qbxlvnf11/data-preprocessing-methods/blob/master/Basic%20File%20Format%20Parser%20and%20Builder/XML%20Parser.ipynb)
+  - [Excel Builder](https://github.com/qbxlvnf11/data-preprocessing-methods/blob/master/Basic%20File%20Format%20Parser%20and%20Builder/Excel%20Builder.ipynb)
 #### - Utils
   - [Build dataset path file](https://github.com/qbxlvnf11/data-preprocessing-methods/blob/master/Utils/build_dataset_path_file.ipynb)
     - Write dataset path extracted from various source dataset folder/text in one txt file
