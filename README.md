@@ -24,7 +24,7 @@ Contents
     - Brightness and contrast adjustments of images
   - [TORCHVISION.TRANSFORMS in Pytorch](https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/TORCHVISION.TRANSFORMS_UCSD.ipynb)
   - [Convert grayscale to rgb image (OpenCV, PIL)](https://github.com/qbxlvnf11/data-preprocessing-methods/blob/master/Image%20Processing/convert_grayscale_rgb.ipynb)
-  - [Save Youtube video]([https://github.com/qbxlvnf11/data-processing-basic/blob/master/Image%20Processing/Gamma_encoding_UCSD.ipynb](https://github.com/qbxlvnf11/data-preprocessing-methods/blob/master/Image%20Processing/save_youtube_video.py))
+  - [Save Youtube video](https://github.com/qbxlvnf11/data-preprocessing-methods/blob/master/Image%20Processing/save_youtube_video.py)
 #### - NLP
   - [Text preprocessing (Lemmatization, Stemming, POS Tagging ...), TF-IDF, Graphization etc.](https://github.com/qbxlvnf11/data-processing-basic/blob/master/NLP/NLP_preprocessing_tfidf_graphization.ipynb)
     - TF-IDF: a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus
